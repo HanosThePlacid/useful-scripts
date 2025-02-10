@@ -1,0 +1,10 @@
+error
+apple
+warning 
+12345
+failed
+root
+beetroot
+janoshar@gmail.com
+error
+error

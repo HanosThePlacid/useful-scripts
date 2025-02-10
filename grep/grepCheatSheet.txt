@@ -1,0 +1,7 @@
+-i	Case-insensitive search
+-v	Exclude matching lines
+-n	Show line numbers
+-w	Match whole words only
+-r	Search recursively in directories
+-E	Use extended regular expressions
+-c	Count matches
